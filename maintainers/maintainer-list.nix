@@ -13224,6 +13224,12 @@
     githubId = 100917739;
     name = "Tatesa Uradnik";
   };
+  jaoleal = {
+    name = "Joao Leal";
+    email = "jgleal@protonmail.com";
+    github = "jaoleal";
+    githubId = 83425029;
+  };
   jappie = {
     email = "jappieklooster@hotmail.com";
     github = "jappeace";
